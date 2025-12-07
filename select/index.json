@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "乾杯",
+  "base_artist": "長渕剛",
+  "createdAt": "2025-12-07T00:56:37.383606Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "乾杯 (Live)",
+      "artist": "五月天",
+      "has_synced": false,
+      "path": "select/01_乾杯_(Live)_五月天.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "乾杯",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/02_乾杯_五月天.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "乾杯",
+      "artist": "Tsuyoshi Nagabuchi",
+      "has_synced": true,
+      "path": "select/03_乾杯_Tsuyoshi_Nagabuchi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "乾杯",
+      "artist": "長渕 剛",
+      "has_synced": true,
+      "path": "select/04_乾杯_長渕_剛.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "乾杯 Kanpai",
+      "artist": "Kaos",
+      "has_synced": true,
+      "path": "select/05_乾杯_Kanpai_Kaos.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "乾杯 - Gan Bei",
+      "artist": "五月天",
+      "has_synced": false,
+      "path": "select/06_乾杯_-_Gan_Bei_五月天.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "乾杯",
+      "artist": "五月天 (Mayday)",
+      "has_synced": false,
+      "path": "select/07_乾杯_五月天_(Mayday).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "乾杯",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/08_乾杯_五月天.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "乾杯",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/09_乾杯_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "乾杯",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/10_乾杯_五月天.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "乾杯 Life Live",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/11_乾杯_Life_Live_五月天.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "乾杯",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/12_乾杯_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "乾杯 - Live",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/13_乾杯_-_Live_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "乾杯 (《台北女子圖鑑》戲劇插曲)",
+      "artist": "Mayday",
+      "has_synced": false,
+      "path": "select/14_乾杯_(《台北女子圖鑑》戲劇插曲)_Mayday.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "乾杯",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/15_乾杯_五月天.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "乾杯 Life Live",
+      "artist": "Mayday",
+      "has_synced": true,
+      "path": "select/16_乾杯_Life_Live_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "乾杯 - (「長渕 剛 アコースティック 俺の太陽」より)",
+      "artist": "Tsuyoshi Nagabuchi",
+      "has_synced": true,
+      "path": "select/17_乾杯_-_(「長渕_剛_アコースティック_俺の太陽」より)_Tsuyoshi_Nagabuchi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "乾杯",
+      "artist": "長渕 剛",
+      "has_synced": false,
+      "path": "select/pl_01_乾杯_長渕_剛.txt"
+    }
+  ]
+}
